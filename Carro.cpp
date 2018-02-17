@@ -33,5 +33,5 @@ void Carro::setAltura(double pAltura){
 }
 //destructor
 Carro::~Carro(){
-	cout<<"Se elimino el carro :v";
+	cout<<"Se elimino el carro :v"<<endl;
 }

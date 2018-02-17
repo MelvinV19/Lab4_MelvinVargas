@@ -25,5 +25,5 @@ void Edificio::setPisos(int pPisos){
 }
 
 Edificio::~Edificio(){
-	cout<<"El edificio fue eliminado :v";
+	cout<<"El edificio fue eliminado :v"<<endl;
 }

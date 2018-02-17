@@ -16,6 +16,9 @@ class Parqueo{
 		//mutadores
 		double getAltura();
 		void setAltura(double);
+		void parquear(Carro*);
+		void eliminar();
+		void listar();
 		//destructor
 		~Parqueo();
 
